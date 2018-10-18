@@ -17,6 +17,7 @@ Open Android Studio
 Open the project by pressing File -> Open, and selecting the FictionalBusiness folder that was just cloned
 
 Press the green play button at the top of the Android Studio IDE
+
 *Note: the app was developed using the android virtual device emulator with Pixel XL API 27 and a target Android 8.1.*
 
 The app should display on the screen after the build completes successfully.
