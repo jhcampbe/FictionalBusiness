@@ -37,12 +37,35 @@ tools:context=".MainActivity">
     <TextView
         android:id="@+id/title_text_view"
         android:layout_width="wrap_content"
-        android:layout_height="0dp"
+        android:layout_height="wrap_content"
         android:text="Campbell Designs"
-        android:layout_weight="1"
         android:textAppearance="?android:textAppearanceLarge"
         android:textColor="#4689C8"
         android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1234 Fantasy Drive"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sunrise, CA 93016"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USA"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(901) 239-0964"
+        android:textAppearance="?android:textAppearanceMedium" />
 
 
 
